@@ -1,3 +1,3 @@
 # LFS
 
-Working through the LFS book
+Working through the LFS book.
